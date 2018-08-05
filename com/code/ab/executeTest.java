@@ -3,8 +3,6 @@ package com.code.ab;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-
-
 public class executeTest {
 
 	@Test
