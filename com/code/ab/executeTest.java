@@ -15,7 +15,7 @@ public class executeTest {
 
 	@Test
 	public void showdata1() {
-	System.out.println("Hello world");
+	System.out.println("Hello world and happy journey");
 }
 
 /*	public static void main(String Args) {
