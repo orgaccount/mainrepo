@@ -10,7 +10,13 @@ public class executeTest {
 	System.out.println("Hello");
 }
 	
+	// new addition of test case
+	
 
+	@Test
+	public void showdata1() {
+	System.out.println("Hello world");
+}
 
 /*	public static void main(String Args) {
 		executeTest ex = new executeTest();
